@@ -1,4 +1,4 @@
 ##MOVIES##
--Natalia Lionti
 -Julieta Schegtel, 30, San Miguel
--Daniel Zambrana
+-Natalia Lionti, 34 años, Buenos Aires
+-Daniel Zambrana, 25, Villa Celina
